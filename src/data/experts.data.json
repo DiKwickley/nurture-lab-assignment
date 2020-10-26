@@ -1,0 +1,93 @@
+[
+	{
+		"name" : "Aniket Singh Rawat",
+		"image" : "https://picsum.photos/id/100/300/300",
+		"work" : "Founder & CTO Xamplan",
+		"rating" : 5,
+		"numberOfRatings" : 200,
+		"bio" : "Hi I am a full stack web developer. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+		"price" : 69,
+		"session": 30,
+		"location" : "Vadodara, GJ, IN",
+		"languages" : [
+			"Hindi",
+			"English",
+			"Japanses"
+		],
+		"expertise" : [
+			"NodeJS",
+			"Express",
+			"React",
+			"JavaScript"
+		]
+	},
+	{
+		"name" : "Mikhail Maverich",
+		"image" : "https://picsum.photos/id/200/300/300",
+		"work" : "CTO at DDM",
+		"rating" : 3,
+		"numberOfRatings" : 100,
+		"bio" : "Hi I am a full stack web developer. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+		"price" : 0,
+		"session": 60,
+		"location" : "Berlin, UN, RU",
+		"languages" : [
+			"Russian",
+			"German",
+			"English"
+		],
+		"expertise" : [
+			"NodeJS",
+			"Express",
+			"GraphQL",
+			"MongoDB",
+			"JavaScript"
+		]
+	},
+	{
+		"name" : "Furkan Amiri",
+		"image" : "https://picsum.photos/id/320/300/300",
+		"work" : "Founder Amiri Inc",
+		"rating" : 5,
+		"numberOfRatings" : 250,
+		"bio" : "Hi I am a full stack backend developer.  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+		"price" : 120,
+		"session": 60,
+		"location" : "Vadodara, GJ, IN",
+		"languages" : [
+			"Hindi",
+			"Arabic",
+			"English"
+			
+		],
+		"expertise" : [
+			"SASS",
+			"Vue",
+			"React"
+			
+		]
+	},
+	{
+		"name" : "Dev Sharma",
+		"image" : "https://picsum.photos/id/400/300/300",
+		"work" : "CEO @ zeroX45",
+		"rating" : 4,
+		"numberOfRatings" : 170,
+		"bio" : "Hi I am a full frontent engineer.  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+		"price" : 20,
+		"session": 60,
+		"location" : "Vellore, CN, IN",
+		"languages" : [
+			"Hindi",
+			"English",
+			"Spanish"
+			
+		],
+		"expertise" : [
+			"SASS",
+			"JavaScript",
+			"React"
+			
+		]
+	}
+]
